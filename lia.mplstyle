@@ -1,0 +1,13 @@
+font.size : 15.0
+axes.titlesize : small
+figure.dpi : 150
+
+lines.linewidth : 2.0
+xtick.direction : in
+ytick.direction : in
+xtick.top : True
+ytick.right : True
+
+text.usetex : True
+
+axes.prop_cycle: cycler('color', ['2691db', 'ff7f0e', '2e692c', '723b7a', 'e41a1c'])
