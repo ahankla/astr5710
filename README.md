@@ -19,4 +19,4 @@ The first class problem set is in astr5710_PS1.ipynb, formatted as a Jupyter not
 I forked this repository and renamed Jason's branch to jason-upstream. 
 
 To push to my fork: git push -u origin main
-To pull from Jason's repository: git pull jason-upstream
+To pull from Jason's repository: git pull jason-upstream main
