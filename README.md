@@ -16,7 +16,8 @@ when there are new materials/assignments
 The first class problem set is in astr5710_PS1.ipynb, formatted as a Jupyter notebook. Please let me know if you have problems accessing or using it!
 
 ## AMH Notes
-I forked this repository and renamed Jason's branch to jason-upstream. 
+I forked this repository and renamed Jason's branch to jason-upstream. Make sure to copy notebooks to have a different name to avoid obnoxious jupyter notebook merge conflicts.
 
 To push to my fork: git push -u origin main
+
 To pull from Jason's repository: git pull jason-upstream main
